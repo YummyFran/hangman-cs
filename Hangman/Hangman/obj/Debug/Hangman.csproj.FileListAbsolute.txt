@@ -1,0 +1,42 @@
+C:\Users\yumpa\Desktop\Codes\C# .NET framework\Hangman\Hangman\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\yumpa\Desktop\Codes\C# .NET framework\Hangman\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\Users\yumpa\Desktop\Codes\C# .NET framework\Hangman\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\yumpa\Desktop\Codes\C# .NET framework\Hangman\Hangman\Hangman\obj\Debug\Hangman.csproj.AssemblyReference.cache
+C:\Users\yumpa\Desktop\Codes\C# .NET framework\Hangman\Hangman\Hangman\obj\Debug\Hangman.csproj.SuggestedBindingRedirects.cache
+C:\Users\yumpa\Desktop\Codes\C# .NET framework\Hangman\Hangman\Hangman\obj\Debug\Hangman.Form1.resources
+C:\Users\yumpa\Desktop\Codes\C# .NET framework\Hangman\Hangman\Hangman\obj\Debug\Hangman.Properties.Resources.resources
+C:\Users\yumpa\Desktop\Codes\C# .NET framework\Hangman\Hangman\Hangman\obj\Debug\Hangman.csproj.GenerateResource.cache
+C:\Users\yumpa\Desktop\Codes\C# .NET framework\Hangman\Hangman\Hangman\obj\Debug\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\yumpa\Desktop\Codes\C# .NET framework\Hangman\Hangman\Hangman\obj\Debug\Hangman.exe
+C:\Users\yumpa\Desktop\Codes\C# .NET framework\Hangman\Hangman\Hangman\obj\Debug\Hangman.pdb
+C:\Users\yumpa\Desktop\Codes\C# .NET framework\Hangman\Hangman\Hangman\obj\Debug\Hangman.Forms.HomePage.resources
+C:\Users\yumpa\Desktop\Codes\C# .NET framework\Hangman\Hangman\Hangman\obj\Debug\Hangman.Forms.WordGameMode.resources
+C:\Users\yumpa\Desktop\Codes\C# .NET framework\Hangman\Hangman\Hangman\obj\Debug\Hangman.Forms.PhraseGameMode.resources
+C:\Users\yumpa\Desktop\Codes\WinForm\Hangman\Hangman\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\yumpa\Desktop\Codes\WinForm\Hangman\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\Users\yumpa\Desktop\Codes\WinForm\Hangman\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\yumpa\Desktop\Codes\WinForm\Hangman\Hangman\Hangman\obj\Debug\Hangman.csproj.AssemblyReference.cache
+C:\Users\yumpa\Desktop\Codes\WinForm\Hangman\Hangman\Hangman\obj\Debug\Hangman.csproj.SuggestedBindingRedirects.cache
+C:\Users\yumpa\Desktop\Codes\WinForm\Hangman\Hangman\Hangman\obj\Debug\Hangman.Form1.resources
+C:\Users\yumpa\Desktop\Codes\WinForm\Hangman\Hangman\Hangman\obj\Debug\Hangman.Forms.HomePage.resources
+C:\Users\yumpa\Desktop\Codes\WinForm\Hangman\Hangman\Hangman\obj\Debug\Hangman.Forms.PhraseGameMode.resources
+C:\Users\yumpa\Desktop\Codes\WinForm\Hangman\Hangman\Hangman\obj\Debug\Hangman.Forms.WordGameMode.resources
+C:\Users\yumpa\Desktop\Codes\WinForm\Hangman\Hangman\Hangman\obj\Debug\Hangman.Properties.Resources.resources
+C:\Users\yumpa\Desktop\Codes\WinForm\Hangman\Hangman\Hangman\obj\Debug\Hangman.csproj.GenerateResource.cache
+C:\Users\yumpa\Desktop\Codes\WinForm\Hangman\Hangman\Hangman\obj\Debug\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\yumpa\Desktop\Codes\WinForm\Hangman\Hangman\Hangman\obj\Debug\Hangman.exe
+C:\Users\yumpa\Desktop\Codes\WinForm\Hangman\Hangman\Hangman\obj\Debug\Hangman.pdb
+C:\Users\yumpa\Desktop\Codes\WinForm\Hangman\Hangman\obj\Debug\Hangman.csproj.AssemblyReference.cache
+C:\Users\yumpa\Desktop\Codes\WinForm\Hangman\Hangman\obj\Debug\Hangman.csproj.SuggestedBindingRedirects.cache
+C:\Users\yumpa\Desktop\Codes\WinForm\Hangman\Hangman\obj\Debug\Hangman.Form1.resources
+C:\Users\yumpa\Desktop\Codes\WinForm\Hangman\Hangman\obj\Debug\Hangman.Forms.HomePage.resources
+C:\Users\yumpa\Desktop\Codes\WinForm\Hangman\Hangman\obj\Debug\Hangman.Forms.PhraseGameMode.resources
+C:\Users\yumpa\Desktop\Codes\WinForm\Hangman\Hangman\obj\Debug\Hangman.Forms.WordGameMode.resources
+C:\Users\yumpa\Desktop\Codes\WinForm\Hangman\Hangman\obj\Debug\Hangman.Properties.Resources.resources
+C:\Users\yumpa\Desktop\Codes\WinForm\Hangman\Hangman\obj\Debug\Hangman.csproj.GenerateResource.cache
+C:\Users\yumpa\Desktop\Codes\WinForm\Hangman\Hangman\obj\Debug\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\yumpa\Desktop\Codes\WinForm\Hangman\Hangman\obj\Debug\Hangman.exe
+C:\Users\yumpa\Desktop\Codes\WinForm\Hangman\Hangman\obj\Debug\Hangman.pdb
+C:\Users\yumpa\Desktop\Codes\WinForm\Hangman\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\yumpa\Desktop\Codes\WinForm\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\Users\yumpa\Desktop\Codes\WinForm\Hangman\Hangman\bin\Debug\Hangman.pdb
